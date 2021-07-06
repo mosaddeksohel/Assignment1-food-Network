@@ -6,6 +6,17 @@ body{
 section{
     margin: 10px;
 }
+.button{
+    margin-left: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    border: 10px;
+    font-size: 20px;
+    color: yellowgreen;
+    background-color: darkgoldenrod;
+    text-decoration: none;
+}
 .feature{
     text-align: center;
 }
