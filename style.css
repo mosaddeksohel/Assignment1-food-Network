@@ -1,0 +1,103 @@
+body{
+    margin-top: 100px;
+    margin-left: 0;
+    margin-right: 0ch;
+}
+section{
+    margin: 10px;
+}
+.feature{
+    text-align: center;
+}
+.logo{
+    width: 2%;
+}
+small{
+    margin-left: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    border: 10px;
+    font-size: 20px;
+    color: yellowgreen;
+    background-color: darkgoldenrod;
+}
+.color{
+    color: brown;
+}
+h1{
+    font-size: 40px;
+    margin: 0;
+    padding: 0%;
+    font-family: 'Otomanopee One', sans-serif;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Otomanopee One', sans-serif;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'EB Garamond', serif;
+}
+.link-button{
+    background-image: linear-gradient(yellow, cyan);
+    padding: 12px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.stage-1{
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.stage-1-img{
+    margin-left: 100px;
+}
+.stage-2-img{
+    margin-left: 180px;
+    width: 50%;
+}
+#background{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    margin-left: 0%;
+    background-repeat: no-repeat;
+}
+.middle{
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20x;
+    width: 450px;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+.half-stage{
+    width: 50%;
+}
+
+.one-third-stage{
+    width: 30%;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 25px;
+}
+.one-third-image{
+    width: 100%;
+}
+footer{
+    text-align: center;
+    height: 100px;
+    background-color:rosybrown;
+}
+footer h3{
+    padding-top: 20px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+footer p{
+    text-align: center;
+}
